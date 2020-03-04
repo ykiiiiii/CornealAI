@@ -1,4 +1,4 @@
-# CornealAI
+# CorneaAI
 This is python code for implementation in the paper: 
 >Nicole Hallett, Kai Yi, Josef Dick, Christopher Hodge, Gerard Sutton, Yu Guang Wang, Jingjing You[Deep Learning Based Unsupervised and Semi-supervised Classification for Keratoconus](https://arxiv.org/abs/2001.11653). arXiv preprint arXiv:2001.11653, 2020.
 
