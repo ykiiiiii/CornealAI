@@ -35,7 +35,6 @@ python train.py
 There are some parameters for the train program.
 ```
 TRAIN_DIR               -  the path training data
-TEST_DIR                -  the path test data
 model_checkpoint_dir    -  model weights save directory   
 epoch                   - how many epochs in training
 
